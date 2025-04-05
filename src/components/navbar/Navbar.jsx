@@ -52,7 +52,7 @@ export const Navbar = ({ setShowLogin }) => {
         </a>
       </ul>
       <div className="navbar-right">
-        <Search />
+        {/* <Search /> */}
         <div className="navbar-search-icon">
 
           <Link to="/cart">

@@ -8,6 +8,6 @@ return (
             <p>choose a diverse menu featuring the world class cake</p>
             <button>view menu</button>
         </div>
-        </div>
+    </div>
 )
 }
